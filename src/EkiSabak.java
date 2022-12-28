@@ -13,8 +13,6 @@ public class EkiSabak {
         double sum3 = (sum1/3);
       System.out.printf("кошкондо: %.0f",sum1);
       System.out.println(" ");
-
-        System.out.println(" ");
         System.out.println(" ");
       System.out.printf("кобойткондо: %.0f",sum2);
       System.out.println(" ");
