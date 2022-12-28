@@ -75,6 +75,7 @@ public class beshSabak {
         double a = Math.sqrt(varInt);
         System.out.println(a);
         double sum = varInt/(varInt/3);
+        System.out.println();
         System.out.println(sum);
 
 
